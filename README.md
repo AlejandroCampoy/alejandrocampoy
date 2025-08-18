@@ -4,18 +4,30 @@
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-campoy-nieves-12b9731aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://orcid.org/0000-0002-4244-6583">
+    <img src="https://img.shields.io/badge/ORCID-00A6CE39?logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=QDzMv44AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white" alt="Google Scholar"/>
+  </a>&nbsp;
+  <a href="mailto:alejandroac79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/AlejandroCN7?tab=followers">
+    <img src="https://img.shields.io/github/followers/AlejandroCN7?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+  </a>
+</p>
+
+
 AI researcher and computer engineer with a strong focus on Deep Reinforcement Learning and its applications in energy efficiency and smart environments. Passionate about pushing the boundaries of technology through continuous learning, rigorous experimentation, and applied innovation. I am highly committed to every project I take on and always strive for excellence and meaningful impact.
 
 🔜 PhD Candidate in Deep Reinforcement Learning (Artificial Intelligence) for Building Energy Optimization | 2021–2025
 🎓 Master’s Degree in Computer Engineering – University of Granada | 2018–2019
-🎓 Bachelor’s Degree in Computer Engineering – University of Granada | 2014–2018
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Campoy-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campoy-nieves-12b9731aa)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4244--6583-%23A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4244-6583)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Alejandro%20Campoy-4285F4?logo=google&logoColor=white)](https://scholar.google.com/citations?user=QDzMv44AAAAJ)
-[![Follow](https://img.shields.io/badge/Follow%20me-AlejandroCN7-181717?logo=github&logoColor=white)](https://github.com/AlejandroCN7)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:alejandroac79@gmail.com)
+🎓 Bachelor’s Degree in Computer Engineering – University of Granada | 2014–2018 
 
 
 ---
