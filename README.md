@@ -18,9 +18,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
   <a href="https://github.com/AlejandroCN7?tab=followers">
-    <img src="https://img.shields.io/github/followers/AlejandroCN7?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+    <img src="https://img.shields.io/github/followers/AlejandroCN7?label=Follow&style=flat&logo=github&logoColor=white&color=181717" alt="Follow"/>
   </a>
 </p>
+
+
 
 
 AI researcher and computer engineer with a strong focus on Deep Reinforcement Learning and its applications in energy efficiency and smart environments. Passionate about pushing the boundaries of technology through continuous learning, rigorous experimentation, and applied innovation. I am highly committed to every project I take on and always strive for excellence and meaningful impact.
@@ -37,18 +39,18 @@ AI researcher and computer engineer with a strong focus on Deep Reinforcement Le
 <div align="center">
 
 <!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark&hide_border=true" width="70%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark&hide_border=true" width="70%" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroCN7&theme=react&hide_border=true" width="70%" />
 
 <br />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroCN7&theme=react&hide_border=true" width="48%" />
-
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub" width="70%" />
 
 </div>
 
