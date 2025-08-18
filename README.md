@@ -1,9 +1,22 @@
-# 👋 Hi, I'm Alejandro Campoy Nieves (AlejandroCN7)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Alejandro+Campoy+Nieves;Welcome+to+my+GitHub!&center=true&size=25">
+  </a>
+</h1>
 
-🎓 Computer Science graduate, Professional Master, and currently **PhD student in Deep Reinforcement Learning** at the University of Granada.  
+AI researcher and computer engineer with a strong focus on Deep Reinforcement Learning and its applications in energy efficiency and smart environments. Passionate about pushing the boundaries of technology through continuous learning, rigorous experimentation, and applied innovation. I am highly committed to every project I take on and always strive for excellence and meaningful impact.
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Campoy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campoy-nieves-12b9731aa)
- [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white)](mailto:alejandroac79@gmail.com)
+🔜 PhD Candidate in Deep Reinforcement Learning (Artificial Intelligence) for Building Energy Optimization | 2021–2025
+🎓 Master’s Degree in Computer Engineering – University of Granada | 2018–2019
+🎓 Bachelor’s Degree in Computer Engineering – University of Granada | 2014–2018
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Campoy-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campoy-nieves-12b9731aa)  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4244--6583-%23A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4244-6583)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Alejandro%20Campoy-4285F4?logo=google&logoColor=white)](https://scholar.google.com/citations?user=QDzMv44AAAAJ)
+[![Follow](https://img.shields.io/badge/Follow%20me-AlejandroCN7-181717?logo=github&logoColor=white)](https://github.com/AlejandroCN7)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:alejandroac79@gmail.com)
+
 
 ---
 
@@ -12,18 +25,22 @@
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub)](https://github.com/AlejandroCN7)
+
+---
+
+## 🛠 Major contributions
+
+- Main developer of [Sinergym](https://github.com/sail-ugr/Sinergym) (⭐️ [![Sinergym Stars](https://img.shields.io/github/stars/sail-ugr/Sinergym?style=social)](https://github.com/sail-ugr/Sinergym)), a project of the sail-ugr organization.
+- Stars not counted in personal GitHub stats.
+
+
 ---
 
 ## 🌱 Currently learning & exploring
-- Advanced **Deep Reinforcement Learning** techniques  
+- Advanced **Deep Reinforcement Learning** techniques in building energy optimization
 - Scalable architectures with **Cloud Computing**  
 - Improving my skills in **Machine Learning** research & deployment  
-
----
-
-## ✨ GitHub trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub)
 
 ---
 
