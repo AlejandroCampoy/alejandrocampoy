@@ -28,6 +28,15 @@
 ---
 
 <!-- START PAPERS -->
+
+## 📚 My Publications
+
+- 📄 [Sinergym – A virtual testbed for building energy optimization with Reinforcement Learning](https://doi.org/10.1016/j.enbuild.2024.115075) (2025)
+- 📖 [Exploring Deep Reinforcement Learning Algorithms for Enhanced HVAC Control](https://doi.org/10.1007/978-3-031-65993-5_33) (2024)
+- 📄 [An experimental evaluation of deep reinforcement learning algorithms for HVAC control](https://doi.org/10.1007/s10462-024-10819-x) (2024)
+- 📖 [Explaining Deep Reinforcement Learning-Based Methods for Control of Building HVAC Systems](https://doi.org/10.1007/978-3-031-44067-0_13) (2023)
+- 🔹 [Sinergym: a building simulation and control framework for training reinforcement learning agents](https://doi.org/10.1145/3486611.3488729) (2021)
+
 <!-- END PAPERS -->
 
 ---
