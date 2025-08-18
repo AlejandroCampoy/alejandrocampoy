@@ -21,15 +21,14 @@
 
 ---
 
-## ✨ Fun add-ons for your profile
+## ✨ GitHub trophies
 
-- Add **GitHub trophies**:  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub)
 
-<!--
-- Add **dynamic content** with GitHub Actions:  
-  - Latest blog posts / research papers
--->
+---
+
+<!-- START PAPERS -->
+<!-- END PAPERS -->
 
 ---
 
