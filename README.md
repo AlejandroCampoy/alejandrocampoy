@@ -31,7 +31,7 @@ AI researcher and computer engineer with a strong focus on Deep Reinforcement Le
 
 ## 🛠 Major contributions
 
-- Main developer of [Sinergym](https://github.com/sail-ugr/Sinergym) (⭐️ [![Sinergym Stars](https://img.shields.io/github/stars/sail-ugr/Sinergym?style=social)](https://github.com/sail-ugr/Sinergym)), a project of the sail-ugr organization.
+- Main developer of [Sinergym](https://github.com/ugr-sail/sinergym) (⭐️ [![Sinergym Stars](https://img.shields.io/github/stars/ugr-sail/sinergym?style=social)](https://github.com/ugr-sail/sinergym)), a project of the [ugr-sail](https://github.com/ugr-sail) organization.
 - Stars not counted in personal GitHub stats.
 
 
