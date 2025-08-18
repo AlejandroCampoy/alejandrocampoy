@@ -22,10 +22,23 @@ AI researcher and computer engineer with a strong focus on Deep Reinforcement Le
 
 ## 📊 GitHub Stats
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark)
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub)](https://github.com/AlejandroCN7)
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark&hide_border=true" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+<br />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroCN7&theme=react&hide_border=true" width="48%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub" width="48%" />
+
+</div>
 
 ---
 
