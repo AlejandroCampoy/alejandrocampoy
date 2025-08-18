@@ -38,19 +38,21 @@ AI researcher and computer engineer with a strong focus on Deep Reinforcement Le
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark&hide_border=true" width="70%" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroCN7&show_icons=true&theme=dark&hide_border=true" width="70%" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark&hide_border=true" width="70%" />
+  <br />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroCN7&theme=react&hide_border=true" width="70%" />
+  <!-- Top Languages & Streak Stats side by side -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCN7&layout=compact&theme=dark&hide_border=true" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroCN7&theme=react&hide_border=true" width="45%" />
+  </div>
 
-<br />
+  <br />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub" width="70%" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AlejandroCN7&theme=darkhub" width="90%" />
 
 </div>
 
