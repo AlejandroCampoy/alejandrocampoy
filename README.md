@@ -32,13 +32,19 @@
   </a>
 </p>
 
-## 🧠 About Me
-
 **Machine Learning Engineer** specialized in **Deep Reinforcement Learning** (*PPO, SAC, TD3...*) with experience in simulation-based environments and energy optimization.
 
 Creator of [Sinergym](https://github.com/ugr-sail/sinergym) (⭐️ [![Sinergym Stars](https://img.shields.io/github/stars/ugr-sail/sinergym?style=social)](https://github.com/ugr-sail/sinergym)), an **open-source framework** for applying RL to building energy control using EnergyPlus. Background in AI research with published work on RL evaluation and explainability.
 
 Also interested in broader Machine Learning applications where RL, optimization, or decision-making systems can bring value.
+
+## 📚 Education
+
+- 🎓 PhD in Deep Reinforcement Learning (Artificial Intelligence) for Building Energy Optimization - University of Granada | 2021–2025
+  - ⭐ Awarded with “Cum Laude” distinction (highest honors)
+- 🎓 Master’s Degree in Computer Engineering – University of Granada | 2018–2019
+- 🎓 Bachelor’s Degree in Computer Engineering – University of Granada | 2014–2018
+  - ✔️ Specialization in Computing and Intelligent Systems  
 
 ## 🧪 Technical Expertise
 
@@ -89,13 +95,6 @@ An open-source framework for **training and evaluating Reinforcement Learning ag
 - Lead developer and system designer
 - RL experimentation and evaluation methodology
 - Architecture of simulation-based RL environments and project delivery (packaging, CI/CD, docs)
-
-
-## 📚 Education
-
-- 🎓 PhD in Deep Reinforcement Learning (Artificial Intelligence) for Building Energy Optimization | 2021–2025
-- 🎓 Master’s Degree in Computer Engineering – University of Granada | 2018–2019
-- 🎓 Bachelor’s Degree in Computer Engineering – University of Granada | 2014–2018 
 
 ## 📝 Publications
 
